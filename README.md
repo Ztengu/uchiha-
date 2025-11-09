@@ -1,18 +1,18 @@
-Push-level-discord Install
-Termux Android##
+#Push-level-discord Install
+##Termux Android##
 
-pkg install git
+```pkg install git```
 
-https://github.com/Ztengu/uchiha-.git
+```https://github.com/Ztengu/uchiha-.git```
 
-pkg install python
+```pkg install python```
 
-apt upgrade && update
+```apt upgrade && update```
 
-pip install requests colorama
+```pip install requests colorama```
 
-cd push-dc
+```cd push-dc```
 
-python main.py
+```python main.py```
 
 ##Good Luck !
