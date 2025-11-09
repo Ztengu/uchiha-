@@ -3,20 +3,29 @@
 ```bash
 pkg install python
 ```
-pkg install git
 
 ```bash
 https://github.com/Ztengu/uchiha-.git
 ```
 
-```pkg install python
+```bash
+pkg install python
+```
 
-```apt upgrade && update
+```bash
+apt upgrade && update
+```
 
-```pip install requests colorama
+```bash
+pip install requests colorama
+```
 
-```cd push-dc
+```bash
+cd push-dc
+```
 
-```python main.py
+```bash
+python main.py
+```
 
 ##Good Luck !
