@@ -1,8 +1,13 @@
 ## **Push-level-discord InstallTermux Android** ##
 
-```pkg install git
+```bash
+pkg install python
+```
+pkg install git
 
-```https://github.com/Ztengu/uchiha-.git
+```bash
+https://github.com/Ztengu/uchiha-.git
+```
 
 ```pkg install python
 
