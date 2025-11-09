@@ -1,12 +1,15 @@
 ## **Push-level-discord InstallTermux Android** ##
 
-```bash pkg install git
+bash
+pkg install git
 
-```https://github.com/Ztengu/uchiha-.git```
+bash https://github.com/Ztengu/uchiha-.git
 
-```pkg install python```
+bash
+pkg install python
 
-```apt upgrade && update```
+bash
+apt upgrade && update
 
 ```pip install requests colorama```
 
