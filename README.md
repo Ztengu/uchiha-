@@ -1,4 +1,4 @@
-## **Push-level-discord InstallTermux Android** ##
+## **Push-level-discord Install Termux Android** ##
 
 ```bash
 pkg install python
@@ -29,3 +29,4 @@ python main.py
 ```
 
 ##Good Luck !
+![Screenshot Tutorial](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2dgU4ZtsLnAmAQbWT1qvV8OY8iNmpj7aZ-Q&usqp=CAU)
